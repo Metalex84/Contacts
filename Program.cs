@@ -223,6 +223,5 @@ class Program
             Console.WriteLine("Por favor, presiona cualquier tecla para continuar");
             Console.ReadKey();
         }
-
     }
 }
